@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PeraPera](https://perapera.netlify.app/)
 
-- 🌱 I’m currently learning **Material UI**
+- 🌱 I’m currently learning **Material UI** and **Tailwind CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
